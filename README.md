@@ -1,5 +1,9 @@
 # NO TROLLS!!!1
 
+<p align="center">
+  <img src="http://cdn.memegenerator.net/instances/250x250/31056298.jpg" alt="No Trolls" title="No Trolls" />
+</p>
+
 É para você gosta de ler as notícias dos principais portais da web no Google Chrome mas fica, como eu, chateado com os comentários (sempre ofensivos e desnecessários) destes sites?
 
 O "No Trolls" é uma extensão para Google Chrome que simplesmente elimina os comentários de todos as notícias dos seguintes websites:
