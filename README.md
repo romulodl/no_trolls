@@ -13,6 +13,13 @@ O "No Trolls" é uma extensão para Google Chrome que simplesmente elimina os co
 * estadao.com.br
 * espn.com.br
 
+### Versão 1.1
+
+* gizmodo.com
+* gizmodo.com.br
+* kotaku.com
+* kotaku.com.br
+
 ## Como instalar:
 
 1.  Baixe a versão zip e descompacte onde você achar melhor no seu computador

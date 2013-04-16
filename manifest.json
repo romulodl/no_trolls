@@ -3,11 +3,11 @@
 
   "name": "No trolls",
   "description": "Chateado com os comentários dos portais brasileiros??? ELIMINE-OS DE SUA VIDA!!!1",
-  "version": "1.0",
+  "version": "1.1",
 
   "content_scripts": [{
-    "matches": [ "http://*.globo.com/*", "http://*.uol.com.br/*", "http://*.estadao.com.br/*"],
-    "js": ["lib/jquery.js", "globo/block.js", "uol/block.js", "espn/block.js"],
+    "matches": [ "http://*.globo.com/*", "http://*.uol.com.br/*", "http://*.estadao.com.br/*", "http://*.kotaku.com/*", "http://*.kotaku.com.br/*", "http://*.gizmodo.com/*", "http://*.gizmodo.co.uk/*", "http://*.gizmodo.com.br/*"],
+    "js": ["lib/jquery.js", "globo/block.js", "uol/block.js", "espn/block.js", "kotaku/block.js", "kotaku_br/block.js", "gizmodo/block.js"],
     "run_at":"document_end"
   }],
   
